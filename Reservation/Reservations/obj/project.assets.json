@@ -12490,11 +12490,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\!schrool\\4 semestras\\semestro projektas\\Projektas_Core\\sempr\\sempr\\Reservations\\Reservations\\Reservations.csproj",
+      "projectUniqueName": "D:\\Core\\Reservation\\Reservations\\Reservations.csproj",
       "projectName": "Reservations",
-      "projectPath": "D:\\!schrool\\4 semestras\\semestro projektas\\Projektas_Core\\sempr\\sempr\\Reservations\\Reservations\\Reservations.csproj",
+      "projectPath": "D:\\Core\\Reservation\\Reservations\\Reservations.csproj",
       "packagesPath": "C:\\Users\\Ezasu\\.nuget\\packages\\",
-      "outputPath": "D:\\!schrool\\4 semestras\\semestro projektas\\Projektas_Core\\sempr\\sempr\\Reservations\\Reservations\\obj\\",
+      "outputPath": "D:\\Core\\Reservation\\Reservations\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

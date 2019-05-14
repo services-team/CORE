@@ -22,12 +22,7 @@ namespace Reservations.Controllers
 
             //var a = context.WeeklySchedule.Include("Day.WeekDay").ToList();
             var a = context.WeeklySchedule.Include("Day.WeekDay").Include("FkUser").Include("Day.WorkTime").ToList();
-            var b = context.Day.Include("WorkTime").ToList();
-            //var b = context.WeeklySchedule;//.Include("Day");
-            //a.FirstOrDefault().Day.Add(new Day { Id = 1, WeekDayId = 2, ScheduleId = 1, WeekDay = new WeekDays { Name = "monday" }  });
-            //a.FirstOrDefault().Day.Add(new Day { Id = 1, WeekDayId = 2, ScheduleId = 1, WeekDay = new WeekDays { Name = "tuesday" } });
-            //b.Last().Day.Add(new Day { Id = 1, WeekDayId = 2, ScheduleId = 1, WeekDay = new WeekDays { Name = "monday" } });
-            //var c = b.ToList();
+
             List<WeeklyScheduleViewModel> asd = WeeklyScheduleViewModel.Convert(a);
 
             return asd;
