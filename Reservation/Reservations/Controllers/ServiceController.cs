@@ -43,7 +43,7 @@ namespace Reservations.Controllers
 
             var userId = User.Claims.First(x => x.Type == "UserID").Value;
 
-            return context.Service.Where(x => x.FkUserId.ToString() == userId).ToList();
+            return context.Service.Where(x => x.FkUserId == userId).ToList();
         }
 
         // GET: api/Service/5
@@ -108,7 +108,8 @@ namespace Reservations.Controllers
         public async Task<IActionResult> PostService([FromBody] Service service)
         {
             var _context = new ServicesDbContext();
-            service.FkUserId = "e40d1ef3-0bb8-4a2f-a98f-3a3b7c975e88";
+
+            service.FkUserId = User.Claims.First(x => x.Type == "UserID").Value;
 
             if (!ModelState.IsValid)
             {

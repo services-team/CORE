@@ -26,3 +26,17 @@ D:\!schrool\4 semestras\semestro projektas\Projektas_Core\sempr\sempr\Reservatio
 D:\!schrool\4 semestras\semestro projektas\Projektas_Core\sempr\sempr\Reservations\Reservations\obj\Debug\netcoreapp2.1\Reservations.RazorTargetAssemblyInfo.cache
 D:\!schrool\4 semestras\semestro projektas\Projektas_Core\sempr\sempr\Reservations\Reservations\obj\Debug\netcoreapp2.1\Reservations.dll
 D:\!schrool\4 semestras\semestro projektas\Projektas_Core\sempr\sempr\Reservations\Reservations\obj\Debug\netcoreapp2.1\Reservations.pdb
+D:\Core\Reservation\Reservations\bin\Debug\netcoreapp2.1\Reservations.deps.json
+D:\Core\Reservation\Reservations\bin\Debug\netcoreapp2.1\Reservations.runtimeconfig.json
+D:\Core\Reservation\Reservations\bin\Debug\netcoreapp2.1\Reservations.runtimeconfig.dev.json
+D:\Core\Reservation\Reservations\bin\Debug\netcoreapp2.1\Reservations.dll
+D:\Core\Reservation\Reservations\bin\Debug\netcoreapp2.1\Reservations.pdb
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.csprojAssemblyReference.cache
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.csproj.CoreCompileInputs.cache
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.RazorAssemblyInfo.cache
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.RazorAssemblyInfo.cs
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.AssemblyInfoInputs.cache
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.AssemblyInfo.cs
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.RazorTargetAssemblyInfo.cache
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.dll
+D:\Core\Reservation\Reservations\obj\Debug\netcoreapp2.1\Reservations.pdb
